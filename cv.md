@@ -1,4 +1,5 @@
-#Kakorenko Vladimir ![my photo](/image/IMG_4685.jpg)
+#Kakorenko Vladimir 
+![my photo](2.PNG)
 ##Contacts
 * **Email** [vova3.4.99@gmail.com](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
 * **Discord** garpyn18 (VladimirKakorenko)#2673 
@@ -16,8 +17,10 @@ In the beginning, I was learning Python. I tried to create a website for a store
 ##Code Example
 ```
 function multiply(a, b){
- return a * b
+ return a * b;
 }
+let c = multiply(2, 3);
+alert(c);
 ```
 ##Education
 * University: Belarusian National Technical University, electrical engineer major
@@ -25,4 +28,4 @@ function multiply(a, b){
 * RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 
 ##English
-A2
+A2 *(Elementary)*
