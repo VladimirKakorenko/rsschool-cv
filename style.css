@@ -1,6 +1,9 @@
 *{
     box-sizing: border-box;
 }
+header{
+    padding: 1% 0 1% 0;
+}
 body{
     font-family: 'Roboto', sans-serif;
     min-height: 100vh;
@@ -15,24 +18,31 @@ body{
     justify-content: flex-end;
     align-items: center;
 }
+.nav-item{
+    padding: 0 5% 0 5%;
+}
 html {
     scroll-behavior: smooth;
 }
 .main-container{
-    display: flex;
+    padding: 1% 25% 1% 25%;
     flex-wrap: wrap;
 }
 .section {
-    width: 50%;
     max-width: 1440px;
+}
+.foto{
+    width: 50%;
+    height: 90%;
 }
 footer{
     display: flex;
-    height: 50%;
+    height: 10%;
 }
 .footer-section{
     width: 33%;
     display: flex;
+    padding: 1px 0 0 10%;
 }
 img{
     width: 70%;
