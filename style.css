@@ -3,6 +3,7 @@
 }
 header{
     padding: 1% 0 1% 0;
+    background-color: #FFC0CB;
 }
 body{
     font-family: 'Roboto', sans-serif;
@@ -15,11 +16,18 @@ body{
 }
 .nav-list{
     display: flex;
-    justify-content: flex-end;
     align-items: center;
+}
+.nav-link{
+    color: black;
+    text-decoration: none;
 }
 .nav-item{
     padding: 0 5% 0 5%;
+    list-style-type: none;
+    max-width: 1440px;
+    margin-left: auto;
+    margin-right: auto;
 }
 html {
     scroll-behavior: smooth;
@@ -27,6 +35,7 @@ html {
 .main-container{
     padding: 1% 25% 1% 25%;
     flex-wrap: wrap;
+    background-color: #7FFFD4;
 }
 .section {
     max-width: 1440px;
@@ -38,17 +47,18 @@ html {
 footer{
     display: flex;
     height: 10%;
+    background-color: #FFC0CB;
 }
 .footer-section{
     width: 33%;
     display: flex;
-    padding: 1px 0 0 10%;
+    padding: 1% 0 1% 10%;
 }
 img{
     width: 70%;
     height: 60%;
 }
 .github-img{
-    width: 30%;
+    width: 35%;
     height: 70%;
 }
