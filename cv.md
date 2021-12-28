@@ -1,5 +1,5 @@
 #Kakorenko Vladimir 
-![my photo](2.PNG)
+![my photo](assets/2.PNG)
 ##Contacts
 * **Email** [vova3.4.99@gmail.com](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
 * **Discord** garpyn18 (VladimirKakorenko)#2673 
